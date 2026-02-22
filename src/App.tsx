@@ -143,7 +143,7 @@ const CinematicHero: React.FC = () => {
         <img 
           src="/images/outlet.jpg" 
           alt="Latarombo Ambience" 
-          className="w-full h-full object-cover scale-110"
+          className="w-full h-full object-cover scale-110 grayscale-[80%] opacity-50"
         />
       </motion.div>
 
